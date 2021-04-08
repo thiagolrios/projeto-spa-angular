@@ -1,4 +1,4 @@
-#projeto-spa-angular
+# projeto-spa-angular
 Projeto do bootcamp para replicar uma SPA feita em Angular, usando componentes do Angular Material.
 
  - Repliquei a página mostrada no desafio.
